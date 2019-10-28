@@ -1,3 +1,26 @@
+## fmilibrary_vendor (eloquent) - 0.1.1-1
+
+The packages in the `fmilibrary_vendor` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release --rosdistro eloquent fmilibrary_vendor` on `Mon, 28 Oct 2019 18:02:01 -0000`
+
+The `fmilibrary_vendor` package was released.
+
+Version of package(s) in repository `fmilibrary_vendor`:
+
+- upstream repository: https://github.com/boschresearch/fmilibrary_vendor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.14`
+- rosdep version: `0.17.1`
+- rosdistro version: `0.7.5`
+- vcstools version: `0.1.42`
+
+
 ## fmilibrary_vendor (dashing) - 0.1.0-1
 
 The packages in the `fmilibrary_vendor` repository were released into the `dashing` distro by running `/usr/bin/bloom-release --rosdistro dashing --track dashing fmilibrary_vendor` on `Sat, 03 Aug 2019 20:56:41 -0000`
