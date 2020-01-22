@@ -1,0 +1,12 @@
+Source: ros-eloquent-fmilibrary-vendor
+Section: misc
+Priority: optional
+Maintainer: Ralph Lange <ralph.lange@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), git, ros-eloquent-ament-cmake, ros-eloquent-ros-workspace
+Homepage: https://jmodelica.org/
+Standards-Version: 3.9.2
+
+Package: ros-eloquent-fmilibrary-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-eloquent-ros-workspace
+Description: Wrapper (aka vendor package) around the FMILibrary by Modelon AB (JModelica.org)
