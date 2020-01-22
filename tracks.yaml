@@ -46,4 +46,4 @@ tracks:
     ros_distro: eloquent
     vcs_type: git
     vcs_uri: https://github.com/boschresearch/fmilibrary_vendor.git
-    version: 0.1.1
+    version: 0.2.0
