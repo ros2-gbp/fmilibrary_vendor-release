@@ -1,3 +1,26 @@
+## fmilibrary_vendor (foxy) - 0.2.0-1
+
+The packages in the `fmilibrary_vendor` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --ros-distro foxy --track foxy fmilibrary_vendor` on `Thu, 14 May 2020 14:56:53 -0000`
+
+The `fmilibrary_vendor` package was released.
+
+Version of package(s) in repository `fmilibrary_vendor`:
+
+- upstream repository: https://github.com/boschresearch/fmilibrary_vendor.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.18`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## fmilibrary_vendor (dashing) - 0.2.0-1
 
 The packages in the `fmilibrary_vendor` repository were released into the `dashing` distro by running `/usr/bin/bloom-release --rosdistro dashing --track dashing fmilibrary_vendor --edit` on `Wed, 22 Jan 2020 20:34:44 -0000`
