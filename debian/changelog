@@ -1,0 +1,19 @@
+ros-rolling-fmilibrary-vendor (0.2.0-2focal) focal; urgency=high
+
+  * Updated to FMILibrary version 2.1 and new location on GitHub.
+
+ -- Ralph Lange <ralph.lange@de.bosch.com>  Wed, 22 Jan 2020 05:00:00 -0000
+
+ros-rolling-fmilibrary-vendor (0.1.1-2focal) focal; urgency=high
+
+  * Added build status badges.
+
+ -- Ralph Lange <ralph.lange@de.bosch.com>  Mon, 28 Oct 2019 04:00:00 -0000
+
+ros-rolling-fmilibrary-vendor (0.1.0-2focal) focal; urgency=high
+
+  * Created vendor package for FMILibrary.
+
+ -- Ralph Lange <ralph.lange@de.bosch.com>  Sat, 03 Aug 2019 04:00:00 -0000
+
+
