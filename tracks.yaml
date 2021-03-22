@@ -92,8 +92,8 @@ tracks:
     patches: null
     release_inc: '3'
     release_repo_url: null
-    release_tag: :{version}
+    release_tag: :{ask}
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/boschresearch/fmilibrary_vendor.git
-    version: 0.2.0
+    version: 1.0.0
