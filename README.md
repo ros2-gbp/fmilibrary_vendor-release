@@ -1,3 +1,26 @@
+## fmilibrary_vendor (rolling) - 1.0.1-1
+
+The packages in the `fmilibrary_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --ros-distro rolling fmilibrary_vendor --edit` on `Tue, 30 Mar 2021 07:06:01 -0000`
+
+The `fmilibrary_vendor` package was released.
+
+Version of package(s) in repository `fmilibrary_vendor`:
+
+- upstream repository: https://github.com/boschresearch/fmilibrary_vendor.git
+- release repository: https://github.com/ros2-gbp/fmilibrary_vendor-release.git
+- rosdistro version: `1.0.0-1`
+- old version: `1.0.0-1`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.3`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## fmilibrary_vendor (dashing) - 1.0.0-1
 
 The packages in the `fmilibrary_vendor` repository were released into the `dashing` distro by running `/usr/bin/bloom-release --rosdistro dashing --override-release-repository-url https://github.com/ros2-gbp/fmilibrary_vendor-release.git fmilibrary_vendor --edit` on `Mon, 22 Mar 2021 13:35:40 -0000`
