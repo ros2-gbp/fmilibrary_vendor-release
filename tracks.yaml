@@ -100,4 +100,4 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/boschresearch/fmilibrary_vendor.git
-    version: 1.0.0
+    version: :{ask}
