@@ -1,3 +1,26 @@
+## fmilibrary_vendor (jazzy) - 1.0.1-1
+
+The packages in the `fmilibrary_vendor` repository were released into the `jazzy` distro by running `/usr/local/google/home/marcogg/migration/bin/bloom-release fmilibrary_vendor --rosdistro jazzy` on `Mon, 22 Apr 2024 08:28:34 -0000`
+
+The `fmilibrary_vendor` package was released.
+
+Version of package(s) in repository `fmilibrary_vendor`:
+
+- upstream repository: https://github.com/boschresearch/fmilibrary_vendor.git
+- release repository: https://github.com/ros2-gbp/fmilibrary_vendor-release.git
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## fmilibrary_vendor (rolling) - 1.0.1-4
 
 The packages in the `fmilibrary_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling fmilibrary_vendor` on `Wed, 06 Mar 2024 18:28:20 -0000`
